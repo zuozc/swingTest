@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ErrorAnalyzer">
+    <output-path>$PROJECT_DIR$/out/artifacts/ErrorAnalyzer</output-path>
+    <root id="archive" name="ErrorAnalyzer.jar">
+      <element id="module-output" name="swingTest" />
+      <element id="file-copy" path="$PROJECT_DIR$/target/classes/com/zzc/UI/MyFileFilter.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/target/classes/com/zzc/UI/TryToUseTable.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/target/classes/config.properties" />
+      <element id="file-copy" path="$PROJECT_DIR$/target/classes/com/zzc/tool/TableTool.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/target/classes/com/zzc/model/Error.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/target/classes/com/zzc/model/ErrorMaker.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/target/classes/com/zzc/model/StorageStruct.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/pom.xml" />
+    </root>
+  </artifact>
+</component>
